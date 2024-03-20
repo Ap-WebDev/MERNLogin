@@ -1,11 +1,11 @@
 import './App.css'
-
+import Login from './components/login'
 function App() {
   
 
   return (
     <>
-      <h1 className='text-7xl '>hello</h1>
+      <Login />
     </>
   )
 }
